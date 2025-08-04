@@ -1,0 +1,7 @@
+utilities.logger - INFO - Browser launched
+utilities.logger - INFO - Finding element: ('id', 'user-name')
+utilities.logger - INFO - Navigated to login page
+utilities.logger - INFO - Finding element: ('id', 'password')
+utilities.logger - INFO - Finding element: ('id', 'password')
+utilities.logger - INFO - Password masking verified
+utilities.logger - INFO - Browser closed

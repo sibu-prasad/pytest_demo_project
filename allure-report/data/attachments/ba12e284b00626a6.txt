@@ -1,0 +1,9 @@
+utilities.logger - INFO - Browser launched
+utilities.logger - INFO - Finding element: ('id', 'user-name')
+utilities.logger - INFO - Navigated to login page
+utilities.logger - INFO - Finding element: ('id', 'user-name')
+utilities.logger - INFO - Finding element: ('id', 'password')
+utilities.logger - INFO - Finding element: ('id', 'login-button')
+utilities.logger - INFO - Finding element: ('id', 'inventory_container')
+utilities.logger - INFO - Login successful - inventory page displayed
+utilities.logger - INFO - Browser closed

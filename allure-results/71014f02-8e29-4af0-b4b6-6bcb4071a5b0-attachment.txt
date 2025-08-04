@@ -1,0 +1,9 @@
+[32mINFO    [0m utilities.logger:conftest.py:9 Browser launched
+[32mINFO    [0m utilities.logger:base_page.py:17 Finding element: ('id', 'user-name')
+[32mINFO    [0m utilities.logger:test_login.py:12 Navigated to login page
+[32mINFO    [0m utilities.logger:base_page.py:17 Finding element: ('id', 'user-name')
+[32mINFO    [0m utilities.logger:base_page.py:17 Finding element: ('id', 'password')
+[32mINFO    [0m utilities.logger:base_page.py:17 Finding element: ('id', 'login-button')
+[32mINFO    [0m utilities.logger:base_page.py:17 Finding element: ('css selector', "h3[data-test='error']")
+[33mWARNING [0m utilities.logger:test_login.py:53 Login failed as expected: Epic sadface: Password is required
+[32mINFO    [0m utilities.logger:conftest.py:13 Browser closed

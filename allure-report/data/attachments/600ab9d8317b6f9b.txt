@@ -1,0 +1,9 @@
+utilities.logger - INFO - Browser launched
+utilities.logger - INFO - Finding element: ('id', 'user-name')
+utilities.logger - INFO - Navigated to login page
+utilities.logger - INFO - Finding element: ('id', 'user-name')
+utilities.logger - INFO - Finding element: ('id', 'password')
+utilities.logger - INFO - Finding element: ('id', 'login-button')
+utilities.logger - INFO - Finding element: ('css selector', "h3[data-test='error']")
+utilities.logger - WARNING - Login failed as expected: Epic sadface: Password is required
+utilities.logger - INFO - Browser closed
