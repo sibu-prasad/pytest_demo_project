@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\sibup\OneDrive\Desktop\api_testing\pytest_project\venv
+set VIRTUAL_ENV=C:\Users\sibup\OneDrive\Desktop\api_testing\pytest_demo_project\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
