@@ -50,3 +50,167 @@
 2025-08-04 16:47:49,181 - INFO - Finding element: ('id', 'password')
 2025-08-04 16:47:49,208 - INFO - Password masking verified
 2025-08-04 16:47:51,422 - INFO - Browser closed
+2025-08-05 09:35:47,101 - INFO - Browser launched
+2025-08-05 09:35:50,021 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:35:50,064 - INFO - Navigated to login page
+2025-08-05 09:35:50,067 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:35:50,205 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:35:50,339 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 09:35:50,506 - INFO - Finding element: ('id', 'inventory_container')
+2025-08-05 09:35:50,549 - INFO - Login successful - inventory page displayed
+2025-08-05 09:35:52,829 - INFO - Browser closed
+2025-08-05 09:35:55,695 - INFO - Browser launched
+2025-08-05 09:35:56,374 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:35:56,439 - INFO - Navigated to login page
+2025-08-05 09:35:56,439 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:35:56,596 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:35:56,722 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 09:35:56,842 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-05 09:35:57,028 - ERROR - Test failed: test_failed_login[locked_outuser-secret_sauce-Epic sadface: Sorry, this user has been locked out.], capturing screenshot
+2025-08-05 09:35:57,190 - INFO - Screenshot saved: C:\Users\sibup\OneDrive\Desktop\api_testing\pytest_demo_project\screenshots\test_failed_login[locked_outuser-secret_sauce-Epic sadface: Sorry, this user has been locked out.].png
+2025-08-05 09:35:59,735 - INFO - Browser closed
+2025-08-05 09:36:03,916 - INFO - Browser launched
+2025-08-05 09:36:04,051 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:36:04,563 - INFO - Navigated to login page
+2025-08-05 09:36:04,563 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:36:04,740 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:36:04,868 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 09:36:05,011 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-05 09:36:05,052 - WARNING - Login failed as expected: Epic sadface: Username and password do not match any user in this service
+2025-08-05 09:36:07,307 - INFO - Browser closed
+2025-08-05 09:36:10,297 - INFO - Browser launched
+2025-08-05 09:36:10,417 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:36:10,983 - INFO - Navigated to login page
+2025-08-05 09:36:10,983 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:36:11,128 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:36:11,248 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 09:36:11,374 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-05 09:36:11,418 - WARNING - Login failed as expected: Epic sadface: Username is required
+2025-08-05 09:36:13,687 - INFO - Browser closed
+2025-08-05 09:36:16,450 - INFO - Browser launched
+2025-08-05 09:36:17,059 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:36:17,121 - INFO - Navigated to login page
+2025-08-05 09:36:17,125 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:36:17,260 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:36:17,363 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 09:36:17,469 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-05 09:36:17,528 - WARNING - Login failed as expected: Epic sadface: Password is required
+2025-08-05 09:36:19,803 - INFO - Browser closed
+2025-08-05 09:36:22,541 - INFO - Browser launched
+2025-08-05 09:36:23,096 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:36:23,158 - INFO - Navigated to login page
+2025-08-05 09:36:23,161 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:36:23,303 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:36:23,335 - INFO - Password masking verified
+2025-08-05 09:36:25,582 - INFO - Browser closed
+2025-08-05 09:43:49,501 - INFO - Running tests...
+2025-08-05 09:43:53,460 - INFO - Browser started
+2025-08-05 09:43:55,088 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:43:55,130 - INFO - Navigated to login page
+2025-08-05 09:43:55,132 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:43:55,275 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:43:55,416 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 09:43:55,585 - INFO - Finding element: ('id', 'inventory_container')
+2025-08-05 09:43:55,631 - INFO - Login successful - inventory page displayed
+2025-08-05 09:43:57,879 - INFO - Browser quit
+2025-08-05 09:44:00,529 - INFO - Browser started
+2025-08-05 09:44:01,111 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:44:01,145 - INFO - Navigated to login page
+2025-08-05 09:44:01,147 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:44:01,296 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:44:01,413 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 09:44:01,524 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-05 09:44:01,776 - ERROR - Test failed: test_failed_login[locked_outuser-secret_sauce-Epic sadface: Sorry, this user has been locked out.], capturing screenshot
+2025-08-05 09:44:01,913 - INFO - Screenshot saved: C:\Users\sibup\OneDrive\Desktop\api_testing\pytest_demo_project\screenshots\test_failed_login_locked_outuser_secret_sauce_Epic sadface_ Sorry_ this user has been locked out__.png
+2025-08-05 09:44:04,248 - INFO - Browser quit
+2025-08-05 09:44:06,887 - INFO - Browser started
+2025-08-05 09:44:07,475 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:44:07,508 - INFO - Navigated to login page
+2025-08-05 09:44:07,509 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:44:07,655 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:44:07,786 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 09:44:07,895 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-05 09:44:07,933 - WARNING - Login failed as expected: Epic sadface: Username and password do not match any user in this service
+2025-08-05 09:44:10,167 - INFO - Browser quit
+2025-08-05 09:44:12,796 - INFO - Browser started
+2025-08-05 09:44:13,565 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:44:13,608 - INFO - Navigated to login page
+2025-08-05 09:44:13,610 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:44:13,720 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:44:13,817 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 09:44:13,951 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-05 09:44:14,023 - WARNING - Login failed as expected: Epic sadface: Username is required
+2025-08-05 09:44:16,291 - INFO - Browser quit
+2025-08-05 09:44:18,849 - INFO - Browser started
+2025-08-05 09:44:19,445 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:44:19,488 - INFO - Navigated to login page
+2025-08-05 09:44:19,490 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:44:19,638 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:44:19,726 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 09:44:19,848 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-05 09:44:19,887 - WARNING - Login failed as expected: Epic sadface: Password is required
+2025-08-05 09:44:22,134 - INFO - Browser quit
+2025-08-05 09:44:24,759 - INFO - Browser started
+2025-08-05 09:44:25,311 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 09:44:25,355 - INFO - Navigated to login page
+2025-08-05 09:44:25,356 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:44:25,520 - INFO - Finding element: ('id', 'password')
+2025-08-05 09:44:25,560 - INFO - Password masking verified
+2025-08-05 09:44:27,854 - INFO - Browser quit
+2025-08-05 09:44:28,028 - INFO - Generating Allure report
+2025-08-05 09:44:31,927 - INFO - Allure report generated
+2025-08-05 10:06:46,734 - INFO - Running tests...
+2025-08-05 10:06:51,055 - INFO - Browser launched
+2025-08-05 10:06:51,167 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 10:06:51,646 - INFO - Navigated to login page
+2025-08-05 10:06:51,649 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 10:06:51,813 - INFO - Finding element: ('id', 'password')
+2025-08-05 10:06:51,940 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 10:06:52,185 - INFO - Finding element: ('id', 'inventory_container')
+2025-08-05 10:06:52,224 - INFO - Login successful - inventory page displayed
+2025-08-05 10:06:54,490 - INFO - Browser closed
+2025-08-05 10:06:57,153 - INFO - Browser launched
+2025-08-05 10:06:57,724 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 10:06:57,771 - INFO - Navigated to login page
+2025-08-05 10:06:57,774 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 10:06:57,938 - INFO - Finding element: ('id', 'password')
+2025-08-05 10:06:58,120 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 10:06:58,227 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-05 10:06:58,405 - ERROR - Test failed: test_failed_login[locked_outuser-secret_sauce-Epic sadface: Sorry, this user has been locked out.], capturing screenshot
+2025-08-05 10:07:00,744 - INFO - Browser closed
+2025-08-05 10:07:03,383 - INFO - Browser launched
+2025-08-05 10:07:03,941 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 10:07:03,987 - INFO - Navigated to login page
+2025-08-05 10:07:03,991 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 10:07:04,150 - INFO - Finding element: ('id', 'password')
+2025-08-05 10:07:04,272 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 10:07:04,376 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-05 10:07:04,420 - WARNING - Login failed as expected: Epic sadface: Username and password do not match any user in this service
+2025-08-05 10:07:06,618 - INFO - Browser closed
+2025-08-05 10:07:09,332 - INFO - Browser launched
+2025-08-05 10:07:09,907 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 10:07:09,950 - INFO - Navigated to login page
+2025-08-05 10:07:09,954 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 10:07:10,070 - INFO - Finding element: ('id', 'password')
+2025-08-05 10:07:10,200 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 10:07:10,449 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-05 10:07:10,503 - WARNING - Login failed as expected: Epic sadface: Username is required
+2025-08-05 10:07:12,807 - INFO - Browser closed
+2025-08-05 10:07:15,535 - INFO - Browser launched
+2025-08-05 10:07:16,095 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 10:07:16,146 - INFO - Navigated to login page
+2025-08-05 10:07:16,149 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 10:07:16,295 - INFO - Finding element: ('id', 'password')
+2025-08-05 10:07:16,392 - INFO - Finding element: ('id', 'login-button')
+2025-08-05 10:07:16,504 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-05 10:07:16,564 - WARNING - Login failed as expected: Epic sadface: Password is required
+2025-08-05 10:07:18,820 - INFO - Browser closed
+2025-08-05 10:07:22,511 - INFO - Browser launched
+2025-08-05 10:07:23,396 - INFO - Finding element: ('id', 'user-name')
+2025-08-05 10:07:23,441 - INFO - Navigated to login page
+2025-08-05 10:07:23,443 - INFO - Finding element: ('id', 'password')
+2025-08-05 10:07:23,579 - INFO - Finding element: ('id', 'password')
+2025-08-05 10:07:23,619 - INFO - Password masking verified
+2025-08-05 10:07:25,819 - INFO - Browser closed
+2025-08-05 10:07:26,058 - INFO - Generating Allure report
+2025-08-05 10:07:30,108 - INFO - Allure report generated
