@@ -1,9 +1,0 @@
-utilities.logger - INFO - Browser launched
-utilities.logger - INFO - Finding element: ('id', 'user-name')
-utilities.logger - INFO - Navigated to login page
-utilities.logger - INFO - Finding element: ('id', 'user-name')
-utilities.logger - INFO - Finding element: ('id', 'password')
-utilities.logger - INFO - Finding element: ('id', 'login-button')
-utilities.logger - INFO - Finding element: ('css selector', "h3[data-test='error']")
-utilities.logger - ERROR - Test failed: test_failed_login[locked_outuser-secret_sauce-Epic sadface: Sorry, this user has been locked out.], capturing screenshot
-utilities.logger - INFO - Browser closed

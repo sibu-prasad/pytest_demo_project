@@ -37,7 +37,7 @@ def test_successful_login(login_page):
 @pytest.mark.parametrize(
     "username,password,error_message",
     [
-        ("locked_outuser", "secret_sauce", "Epic sadface: Sorry, this user has been locked out."),
+        ("locked_out_user", "secret_sauce", "Epic sadface: Sorry, this user has been locked out."),
         ("invalid_user", "wrong_pass", "Epic sadface: Username and password do not match any user in this service"),
         ("", "secret_sauce", "Epic sadface: Username is required"),
         ("standard_user", "", "Epic sadface: Password is required")
