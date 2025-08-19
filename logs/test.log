@@ -269,3 +269,128 @@
 2025-08-05 10:15:46,948 - INFO - Browser closed
 2025-08-05 10:15:47,126 - INFO - Generating Allure report
 2025-08-05 10:15:50,605 - INFO - Allure report generated
+2025-08-06 10:46:56,092 - INFO - Running tests...
+2025-08-06 10:47:02,112 - INFO - Browser launched
+2025-08-06 10:47:02,688 - INFO - Finding element: ('id', 'user-name')
+2025-08-06 10:47:02,723 - INFO - Navigated to login page
+2025-08-06 10:47:02,727 - INFO - Finding element: ('id', 'user-name')
+2025-08-06 10:47:02,856 - INFO - Finding element: ('id', 'password')
+2025-08-06 10:47:02,964 - INFO - Finding element: ('id', 'login-button')
+2025-08-06 10:47:03,087 - INFO - Finding element: ('id', 'inventory_container')
+2025-08-06 10:47:03,160 - INFO - Login successful - inventory page displayed
+2025-08-06 10:47:05,385 - INFO - Browser closed
+2025-08-06 10:47:07,975 - INFO - Browser launched
+2025-08-06 10:47:08,481 - INFO - Finding element: ('id', 'user-name')
+2025-08-06 10:47:08,516 - INFO - Navigated to login page
+2025-08-06 10:47:08,516 - INFO - Finding element: ('id', 'user-name')
+2025-08-06 10:47:08,653 - INFO - Finding element: ('id', 'password')
+2025-08-06 10:47:08,783 - INFO - Finding element: ('id', 'login-button')
+2025-08-06 10:47:08,883 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-06 10:47:08,921 - WARNING - Login failed as expected: Epic sadface: Sorry, this user has been locked out.
+2025-08-06 10:47:11,111 - INFO - Browser closed
+2025-08-06 10:47:13,385 - INFO - Browser launched
+2025-08-06 10:47:13,888 - INFO - Finding element: ('id', 'user-name')
+2025-08-06 10:47:13,914 - INFO - Navigated to login page
+2025-08-06 10:47:13,914 - INFO - Finding element: ('id', 'user-name')
+2025-08-06 10:47:14,051 - INFO - Finding element: ('id', 'password')
+2025-08-06 10:47:14,152 - INFO - Finding element: ('id', 'login-button')
+2025-08-06 10:47:14,254 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-06 10:47:14,288 - WARNING - Login failed as expected: Epic sadface: Username and password do not match any user in this service
+2025-08-06 10:47:16,458 - INFO - Browser closed
+2025-08-06 10:47:18,771 - INFO - Browser launched
+2025-08-06 10:47:19,302 - INFO - Finding element: ('id', 'user-name')
+2025-08-06 10:47:19,329 - INFO - Navigated to login page
+2025-08-06 10:47:19,329 - INFO - Finding element: ('id', 'user-name')
+2025-08-06 10:47:19,453 - INFO - Finding element: ('id', 'password')
+2025-08-06 10:47:19,562 - INFO - Finding element: ('id', 'login-button')
+2025-08-06 10:47:19,716 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-06 10:47:19,751 - WARNING - Login failed as expected: Epic sadface: Username is required
+2025-08-06 10:47:21,907 - INFO - Browser closed
+2025-08-06 10:47:24,220 - INFO - Browser launched
+2025-08-06 10:47:25,005 - INFO - Finding element: ('id', 'user-name')
+2025-08-06 10:47:25,036 - INFO - Navigated to login page
+2025-08-06 10:47:25,036 - INFO - Finding element: ('id', 'user-name')
+2025-08-06 10:47:25,160 - INFO - Finding element: ('id', 'password')
+2025-08-06 10:47:25,246 - INFO - Finding element: ('id', 'login-button')
+2025-08-06 10:47:25,353 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-06 10:47:25,392 - WARNING - Login failed as expected: Epic sadface: Password is required
+2025-08-06 10:47:27,553 - INFO - Browser closed
+2025-08-06 10:47:29,834 - INFO - Browser launched
+2025-08-06 10:47:29,939 - INFO - Finding element: ('id', 'user-name')
+2025-08-06 10:47:30,374 - INFO - Navigated to login page
+2025-08-06 10:47:30,375 - INFO - Finding element: ('id', 'password')
+2025-08-06 10:47:30,492 - INFO - Finding element: ('id', 'password')
+2025-08-06 10:47:30,524 - INFO - Password masking verified
+2025-08-06 10:47:32,675 - INFO - Browser closed
+2025-08-06 10:47:32,842 - INFO - Generating Allure report
+2025-08-06 10:47:36,162 - INFO - Allure report generated
+2025-08-19 19:24:32,563 - INFO - Running tests...
+2025-08-19 19:24:42,222 - INFO - Browser launched
+2025-08-19 19:24:43,218 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:24:43,328 - INFO - Navigated to login page
+2025-08-19 19:24:43,334 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:24:43,516 - INFO - Finding element: ('id', 'password')
+2025-08-19 19:24:43,793 - INFO - Finding element: ('id', 'login-button')
+2025-08-19 19:24:44,255 - INFO - Finding element: ('id', 'inventory_container')
+2025-08-19 19:24:44,300 - INFO - Login successful - inventory page displayed
+2025-08-19 19:24:46,561 - INFO - Browser closed
+2025-08-19 19:24:46,878 - INFO - Generating Allure report
+2025-08-19 19:24:53,233 - INFO - Allure report generated
+2025-08-19 19:27:40,673 - INFO - Running tests...
+2025-08-19 19:27:46,389 - INFO - Browser launched
+2025-08-19 19:27:47,568 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:27:47,631 - INFO - Navigated to login page
+2025-08-19 19:27:47,635 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:27:47,809 - INFO - Finding element: ('id', 'password')
+2025-08-19 19:27:47,973 - INFO - Finding element: ('id', 'login-button')
+2025-08-19 19:27:48,217 - INFO - Finding element: ('id', 'inventory_container')
+2025-08-19 19:27:48,289 - INFO - Login successful - inventory page displayed
+2025-08-19 19:27:50,600 - INFO - Browser closed
+2025-08-19 19:27:50,917 - INFO - Generating Allure report
+2025-08-19 19:27:55,812 - INFO - Allure report generated
+2025-08-19 19:28:20,625 - INFO - Running tests...
+2025-08-19 19:28:26,559 - INFO - Browser launched
+2025-08-19 19:28:27,530 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:28:27,592 - INFO - Navigated to login page
+2025-08-19 19:28:27,596 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:28:27,864 - INFO - Finding element: ('id', 'password')
+2025-08-19 19:28:28,186 - INFO - Finding element: ('id', 'login-button')
+2025-08-19 19:28:28,567 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-19 19:28:28,703 - WARNING - Login failed as expected: Epic sadface: Sorry, this user has been locked out.
+2025-08-19 19:28:31,150 - INFO - Browser closed
+2025-08-19 19:28:36,026 - INFO - Browser launched
+2025-08-19 19:28:37,231 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:28:37,307 - INFO - Navigated to login page
+2025-08-19 19:28:37,310 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:28:37,586 - INFO - Finding element: ('id', 'password')
+2025-08-19 19:28:37,909 - INFO - Finding element: ('id', 'login-button')
+2025-08-19 19:28:38,272 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-19 19:28:38,386 - WARNING - Login failed as expected: Epic sadface: Username and password do not match any user in this service
+2025-08-19 19:28:40,697 - INFO - Browser closed
+2025-08-19 19:28:45,796 - INFO - Browser launched
+2025-08-19 19:28:46,869 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:28:46,923 - INFO - Navigated to login page
+2025-08-19 19:28:46,936 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:28:47,125 - INFO - Finding element: ('id', 'password')
+2025-08-19 19:28:47,403 - INFO - Finding element: ('id', 'login-button')
+2025-08-19 19:28:47,730 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-19 19:28:47,858 - WARNING - Login failed as expected: Epic sadface: Username is required
+2025-08-19 19:28:50,207 - INFO - Browser closed
+2025-08-19 19:28:55,001 - INFO - Browser launched
+2025-08-19 19:28:56,099 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:28:56,208 - INFO - Navigated to login page
+2025-08-19 19:28:56,216 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:28:56,540 - INFO - Finding element: ('id', 'password')
+2025-08-19 19:28:56,677 - INFO - Finding element: ('id', 'login-button')
+2025-08-19 19:28:57,028 - INFO - Finding element: ('css selector', "h3[data-test='error']")
+2025-08-19 19:28:57,159 - WARNING - Login failed as expected: Epic sadface: Password is required
+2025-08-19 19:28:59,496 - INFO - Browser closed
+2025-08-19 19:29:04,206 - INFO - Browser launched
+2025-08-19 19:29:05,407 - INFO - Finding element: ('id', 'user-name')
+2025-08-19 19:29:05,532 - INFO - Navigated to login page
+2025-08-19 19:29:05,537 - INFO - Finding element: ('id', 'password')
+2025-08-19 19:29:05,863 - INFO - Finding element: ('id', 'password')
+2025-08-19 19:29:05,904 - INFO - Password masking verified
+2025-08-19 19:29:08,128 - INFO - Browser closed
+2025-08-19 19:29:08,391 - INFO - Generating Allure report
+2025-08-19 19:29:13,111 - INFO - Allure report generated

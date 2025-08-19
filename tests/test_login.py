@@ -12,11 +12,11 @@ def login_page(driver):
     logger.info("Navigated to login page")
     return page
 
+@pytest.mark.smoke
 @allure.epic("Authentication")
 @allure.feature("Login Functionality")
 @allure.story("Successful Login")
 @allure.severity(allure.severity_level.CRITICAL)
-@allure.tag("smoke", "regression")
 def test_successful_login(login_page):
     """Test that a user can log in successfully with valid credentials."""
     with allure.step("Enter valid credentials"):
@@ -43,6 +43,8 @@ def test_successful_login(login_page):
         ("standard_user", "", "Epic sadface: Password is required")
     ]
 )
+
+@pytest.mark.regression
 def test_failed_login(login_page, username, password, error_message):
     with allure.step(f"Test invalid login: {username}/{password}"):
         login_page.enter_username(username)
@@ -52,6 +54,7 @@ def test_failed_login(login_page, username, password, error_message):
         assert error_message in actual_error, f"Expected '{error_message}' but got '{actual_error}'"
         logger.warning("Login failed as expected: %s", actual_error)
 
+@pytest.mark.regression
 @allure.story("Password Masking")
 @allure.severity(allure.severity_level.MINOR)
 def test_password_masking(login_page):
