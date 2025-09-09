@@ -1,0 +1,2 @@
+utilities.logger - INFO - Starting DB configuration test.
+utilities.logger - ERROR - Error during DB extraction: 'cryptography' package is required for sha256_password or caching_sha2_password auth methods

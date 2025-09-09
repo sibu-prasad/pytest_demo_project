@@ -8,7 +8,7 @@ from utilities.config_reader import ConfigReader
 
 def run_tests():
     parser = argparse.ArgumentParser(description="Run tests with an optional pytest marker.")
-    parser.add_argument('--marker', '-m', type=str, help='Pytest marker to filter tests (smoke, regression)')
+    parser.add_argument('--marker', '-m', type=str, help='Pytest marker to filter tests (smoke, regression, db)')
     args = parser.parse_args()
 
     config = ConfigReader()

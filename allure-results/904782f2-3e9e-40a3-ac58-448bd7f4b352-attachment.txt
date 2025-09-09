@@ -1,0 +1,2 @@
+[32mINFO    [0m utilities.logger:test_extract.py:8 Starting DB configuration test.
+[31m[1mERROR   [0m utilities.logger:test_extract.py:23 Error during DB extraction: 'cryptography' package is required for sha256_password or caching_sha2_password auth methods
